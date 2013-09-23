@@ -1,0 +1,50 @@
+<style type="text/css">
+	  body {
+       	 font-family: Arial, sans-serif;
+        	margin: 0;
+	overflow: auto;
+      }
+	  .text1 {
+		color: #999999;
+		font-size: 8pt;
+	  }
+	  .text2 {
+		color: #333333;
+		font-size: 9pt;
+	  }
+	  .text3 {
+		color: #ffffff;
+		font-size: 10pt;
+		text-decoration:none;
+	  }	
+	  .text4 {
+		color: #999999;
+		font-family:Times;
+		font-size: 14pt;
+	  }	
+	  .text5 {
+		color: #002b55;
+		font-size: 10pt;
+		text-decoration:none;
+	  }		  
+	 	  a {
+	    color: #999999;
+	    font-weight: bold;
+		font-size: 8pt;
+	  }
+	  	  .link{
+		text-decoration:underline;
+	    color: #ffffff;
+	    font-weight: bold;
+		font-size: 9pt;
+	  }
+	  .nolink{
+	    color: #333333;
+	    font-weight: bold;
+		font-size: 8pt;
+	  }	  
+	  p {
+	    color: #000000;
+		font-size: 10pt;
+	  }
+	 </style>
